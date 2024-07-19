@@ -13,6 +13,6 @@ public:
             mp[sum]++;
         }
         return ans;
-//PLEASE UPVOTE IF YOU LIKE MY SOLUTION  :)
+
     }
 };
